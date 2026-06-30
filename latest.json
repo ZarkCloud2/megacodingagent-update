@@ -2,7 +2,7 @@
   "latestVersion": "4.1.0",
   "minSupportedVersion": "1.0.0",
   "downloadUrl": "https://qr.dingtalk.com/page/yunpan?route=previewDentry&spaceId=21736055032&fileId=223191338697&type=folder",
-  "releaseNotes": "重要更新，增加了全自动工作模式，您只需要输入需求，后续工作全部自动完成。请各位同事需登录钉钉，复制链接，会自动弹窗，新版本安装包在钉盘，下载安装包直接安装即可",
+  "releaseNotes": "重要更新，增加了全自动工作模式，您只需要输入需求，后续工作全部自动完成。如果还想使用原版本工作模式，请切换到手动模式。需登录钉钉，复制链接，会自动弹出新版本下载页面",
   "forceUpdate": false,
   "serviceEnabled": false,
   "blockMessage": "哈哈，我关闭了，不让你用。",
